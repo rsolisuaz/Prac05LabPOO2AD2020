@@ -18,7 +18,7 @@ La lista de requerimientos que deben cumplirse en esta práctica los puede encon
 ## CALIFICACIÓN
 La calificación para esta práctica no les será emitida de manera inmediata al subir su solución, sin embargo se realizarán pruebas para verificar que se pueden ejecutar los scripts SQL tablas.sql y datos.sql sin problemas en MySQL.
 
-**SI SUS SCRIPTS NO PUEDEN SER EJECUTADOS SIN ERRORES CERO PUNTOS**
+**SI SUS SCRIPTS NO PUEDEN SER EJECUTADOS SIN ERRORES OBTENDRÁN CERO PUNTOS**
 
 
 ## NOTAS IMPORTANTES
